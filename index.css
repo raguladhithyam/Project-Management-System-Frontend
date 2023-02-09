@@ -1,0 +1,52 @@
+.index-container {
+  min-height: 100vh;
+}
+.index-index {
+  width: 1655px;
+  height: 811px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.index-transistion-wipe {
+  top: 207px;
+  left: 818px;
+  width: 415px;
+  height: 405px;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+}
+.index-featuredimportanceeducation1 {
+  top: 258px;
+  left: 863px;
+  width: 335px;
+  height: 313px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 156.5px;
+}
+@media(max-width: 1580px) {
+  .index-index {
+    height: 932px;
+    z-index: 100;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+    border-radius: var(--dl-radius-radius-radius4);
+  }
+  .index-transistion-wipe {
+    top: 250px;
+    left: 667px;
+    margin-left: 0px;
+  }
+  .index-featuredimportanceeducation1 {
+    top: 291px;
+    left: 716px;
+  }
+}
