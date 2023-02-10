@@ -1,7 +1,11 @@
 .m-container {
   min-height: 100vh;
 }
-.m-mac-book-pro147 {
+.m-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.m-mac-book-pro147button {
   width: 100%;
   height: 982px;
   display: flex;
@@ -34,7 +38,7 @@
 .m-rectangle18 {
   top: 0px;
   left: 0px;
-  width: 1920px;
+  width: 1512px;
   height: 260px;
   position: absolute;
   border-color: transparent;
@@ -67,9 +71,9 @@
   border-radius: 156.5px;
 }
 .m-text04 {
-  top: 192px;
-  left: 1014px;
+  top: 200px;
   color: rgba(0, 0, 0, 1);
+  right: 17px;
   height: auto;
   position: absolute;
   font-size: 48px;
@@ -85,8 +89,8 @@
   text-decoration: none;
 }
 .m-i-m-a-g-e245fafc711322ba60c0d79ffd452c40e2 {
-  top: 12px;
-  left: 1268px;
+  top: 20px;
+  left: 903px;
   width: 176px;
   height: 168px;
   position: absolute;
@@ -231,43 +235,43 @@
 .m-rectangle34 {
   top: 433px;
   left: 66px;
-  width: 328px;
-  height: 388px;
+  width: 259px;
+  height: 389px;
   position: absolute;
   border-color: transparent;
   border-radius: 46px;
 }
 .m-rectangle37 {
-  top: 422px;
-  right: 99px;
-  width: 328px;
+  top: 421px;
+  left: 649px;
+  width: 255px;
   height: 388px;
   position: absolute;
   border-color: transparent;
   border-radius: 46px;
 }
 .m-rectangle35 {
-  top: 422px;
-  left: 1010px;
-  width: 328px;
+  top: 426px;
+  right: 38px;
+  width: 240px;
   height: 388px;
   position: absolute;
   border-color: transparent;
   border-radius: 46px;
 }
 .m-rectangle36 {
-  top: 429px;
-  left: 530px;
-  width: 328px;
+  top: 425px;
+  left: 350px;
+  width: 273px;
   height: 388px;
   position: absolute;
   border-color: transparent;
   border-radius: 46px;
 }
 .m-text16 {
+  top: 886px;
+  left: 1316px;
   color: rgba(0, 0, 0, 1);
-  right: 189px;
-  bottom: 39px;
   height: auto;
   position: absolute;
   font-size: 24px;
@@ -283,8 +287,8 @@
   text-decoration: none;
 }
 .m-text18 {
-  top: 472px;
-  left: 179px;
+  top: 463px;
+  left: 131px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -301,8 +305,8 @@
   text-decoration: none;
 }
 .m-text23 {
-  top: 486px;
-  left: 637px;
+  top: 473px;
+  left: 428px;
   color: rgba(30, 30, 30, 1);
   height: auto;
   position: absolute;
@@ -319,8 +323,8 @@
   text-decoration: none;
 }
 .m-text25 {
-  top: 475px;
-  left: 1129px;
+  top: 476px;
+  left: 748px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -337,9 +341,9 @@
   text-decoration: none;
 }
 .m-text27 {
-  top: 464px;
+  top: 469px;
   color: rgba(0, 0, 0, 1);
-  right: 229px;
+  right: 133px;
   height: auto;
   position: absolute;
   font-size: 20px;

@@ -1,7 +1,11 @@
 .o-container {
   min-height: 100vh;
 }
-.o-mac-book-pro149 {
+.o-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.o-mac-book-pro149button {
   width: 100%;
   height: 982px;
   display: flex;
@@ -15,7 +19,7 @@
 .o-rectangle18 {
   top: 0px;
   left: 0px;
-  width: 1920px;
+  width: 1512px;
   height: 260px;
   position: absolute;
   border-color: transparent;
@@ -48,9 +52,9 @@
   border-radius: 156.5px;
 }
 .o-text02 {
-  top: 192px;
-  left: 1014px;
+  top: 190px;
   color: rgba(0, 0, 0, 1);
+  right: 38px;
   height: auto;
   position: absolute;
   font-size: 48px;
@@ -66,8 +70,8 @@
   text-decoration: none;
 }
 .o-i-m-a-g-e245fafc711322ba60c0d79ffd452c40e2 {
-  top: 12px;
-  left: 1268px;
+  top: 10px;
+  left: 926px;
   width: 176px;
   height: 168px;
   position: absolute;
@@ -211,17 +215,17 @@
   text-decoration: none;
 }
 .o-rectangle39 {
-  top: 383px;
-  left: 46px;
-  width: 1847px;
-  height: 539px;
+  top: 376px;
+  left: 13px;
+  width: 1154px;
+  height: 494px;
   position: absolute;
   border-color: transparent;
   border-radius: 32px;
 }
 .o-text14 {
-  top: 671px;
-  left: 541px;
+  top: 667px;
+  left: 502px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -238,8 +242,8 @@
   text-decoration: none;
 }
 .o-text19 {
-  top: 580px;
-  left: 867px;
+  top: 575px;
+  left: 834px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -256,8 +260,8 @@
   text-decoration: none;
 }
 .o-text24 {
-  top: 592px;
-  left: 522px;
+  top: 590px;
+  left: 467px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -274,8 +278,8 @@
   text-decoration: none;
 }
 .o-text26 {
-  top: 573px;
-  left: 148px;
+  top: 570px;
+  left: 62px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -292,8 +296,8 @@
   text-decoration: none;
 }
 .o-text31 {
-  top: 489px;
-  left: 642px;
+  top: 467px;
+  left: 612px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -310,8 +314,8 @@
   text-decoration: none;
 }
 .o-text33 {
-  top: 592px;
-  left: 642px;
+  top: 590px;
+  left: 617px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -328,8 +332,8 @@
   text-decoration: none;
 }
 .o-text35 {
-  top: 680px;
-  left: 642px;
+  top: 678px;
+  left: 616px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -346,8 +350,8 @@
   text-decoration: none;
 }
 .o-text37 {
-  top: 489px;
-  left: 956px;
+  top: 469px;
+  left: 948px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -364,8 +368,8 @@
   text-decoration: none;
 }
 .o-text39 {
-  top: 592px;
-  left: 956px;
+  top: 595px;
+  left: 938px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -382,8 +386,8 @@
   text-decoration: none;
 }
 .o-text41 {
-  top: 680px;
-  left: 956px;
+  top: 687px;
+  left: 929px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -400,8 +404,8 @@
   text-decoration: none;
 }
 .o-text43 {
-  top: 415px;
-  left: 70px;
+  top: 407px;
+  left: 51px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -418,10 +422,10 @@
   text-decoration: none;
 }
 .o-rectangle40 {
-  top: 760px;
-  left: 119px;
-  width: 1118px;
-  height: 130px;
+  left: 60px;
+  width: 1020px;
+  bottom: 137px;
+  height: 106px;
   position: absolute;
   border-color: transparent;
 }
@@ -445,7 +449,7 @@
 }
 .o-text47 {
   top: 472px;
-  left: 139px;
+  left: 53px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -462,8 +466,8 @@
   text-decoration: none;
 }
 .o-text52 {
-  top: 484px;
-  left: 250px;
+  top: 476px;
+  left: 180px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -480,8 +484,8 @@
   text-decoration: none;
 }
 .o-text54 {
-  top: 592px;
-  left: 245px;
+  top: 586px;
+  left: 184px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -498,8 +502,8 @@
   text-decoration: none;
 }
 .o-text56 {
-  top: 680px;
-  left: 245px;
+  top: 673px;
+  left: 177px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -516,8 +520,8 @@
   text-decoration: none;
 }
 .o-text58 {
-  top: 489px;
-  left: 519px;
+  top: 466px;
+  left: 469px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -534,38 +538,12 @@
   text-decoration: none;
 }
 .o-text60 {
-  top: 489px;
-  left: 874px;
+  top: 471px;
+  left: 856px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
   font-size: 20px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
-  text-decoration: none;
-}
-.o-ellipse1 {
-  top: 583px;
-  left: 1153px;
-  width: 34px;
-  height: 28px;
-  position: absolute;
-  border-color: transparent;
-}
-.o-text62 {
-  top: 580px;
-  left: 1162px;
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  position: absolute;
-  font-size: 24px;
   align-self: auto;
   font-style: Regular;
   text-align: center;
@@ -578,16 +556,16 @@
   text-decoration: none;
 }
 .o-ellipse2 {
-  top: 584px;
-  left: 422px;
+  top: 589px;
+  left: 407px;
   width: 34px;
   height: 28px;
   position: absolute;
   border-color: transparent;
 }
-.o-text63 {
-  top: 581px;
-  left: 431px;
+.o-text62 {
+  top: 586px;
+  left: 417px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -603,9 +581,9 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.o-text64 {
-  top: 662px;
-  left: 156px;
+.o-text63 {
+  top: 659px;
+  left: 93px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -621,9 +599,9 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.o-text69 {
-  top: 673px;
-  left: 882px;
+.o-text68 {
+  top: 675px;
+  left: 848px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -640,25 +618,25 @@
   text-decoration: none;
 }
 .o-vector3 {
-  top: 682px;
-  left: 1118px;
+  top: 694px;
+  left: 1098px;
   width: 18px;
   height: 11px;
   position: absolute;
 }
 .o-rectangle41 {
-  right: 100px;
+  top: 401px;
+  right: 92px;
   width: 101px;
-  bottom: 116px;
   height: 39px;
   position: absolute;
   border-color: transparent;
   border-radius: 20px;
 }
-.o-text74 {
+.o-text73 {
+  top: 406px;
   color: rgba(0, 0, 0, 1);
-  right: 129px;
-  bottom: 128px;
+  right: 123px;
   height: auto;
   position: absolute;
   font-size: 20px;

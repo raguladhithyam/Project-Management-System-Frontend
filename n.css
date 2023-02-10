@@ -1,7 +1,11 @@
 .n-container {
   min-height: 100vh;
 }
-.n-mac-book-pro148 {
+.n-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.n-mac-book-pro148button {
   width: 100%;
   height: 982px;
   display: flex;
@@ -15,7 +19,7 @@
 .n-rectangle18 {
   top: 0px;
   left: 0px;
-  width: 1919px;
+  width: 1512px;
   height: 260px;
   position: absolute;
   border-color: transparent;
@@ -48,9 +52,9 @@
   border-radius: 156.5px;
 }
 .n-text02 {
-  top: 189px;
+  top: 196px;
   color: rgba(0, 0, 0, 1);
-  right: 25px;
+  right: 15px;
   height: auto;
   position: absolute;
   font-size: 48px;
@@ -66,8 +70,8 @@
   text-decoration: none;
 }
 .n-i-m-a-g-e245fafc711322ba60c0d79ffd452c40e2 {
-  top: 13px;
-  right: 47px;
+  top: 0px;
+  left: 901px;
   width: 176px;
   height: 168px;
   position: absolute;
@@ -210,17 +214,17 @@
   text-decoration: none;
 }
 .n-rectangle38 {
-  top: 437px;
-  left: 420px;
-  width: 1122px;
-  height: 417px;
+  top: 414px;
+  left: 151px;
+  width: 951px;
+  height: 437px;
   position: absolute;
   border-color: transparent;
   border-radius: 76px;
 }
 .n-text14 {
-  top: 512px;
-  left: 763px;
+  top: 488px;
+  left: 442px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -237,8 +241,8 @@
   text-decoration: none;
 }
 .n-text16 {
-  top: 619px;
-  left: 982px;
+  top: 593px;
+  left: 638px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -255,8 +259,8 @@
   text-decoration: none;
 }
 .n-text18 {
-  top: 698px;
-  left: 758px;
+  top: 694px;
+  left: 431px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -273,8 +277,8 @@
   text-decoration: none;
 }
 .n-text23 {
-  top: 722px;
-  left: 921px;
+  top: 707px;
+  left: 604px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -291,9 +295,9 @@
   text-decoration: none;
 }
 .n-text25 {
+  top: 886px;
+  left: 1303px;
   color: rgba(0, 0, 0, 1);
-  right: 80px;
-  bottom: 39px;
   height: auto;
   position: absolute;
   font-size: 32px;

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="english">
   <head>
-    <title>exported project</title>
+    <title>PROJECTOGRAM</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
     <meta property="twitter:card" content="summary_large_image" />
@@ -39,39 +39,75 @@
       <link href="./index1.css" rel="stylesheet" />
 
       <div class="index1-container">
-        <div class="index1-mac-book-pro143">
-          <img
-            alt="Rectangle1112"
-            src="public/playground_assets/rectangle1112-tdr-700h.png"
-            class="index1-rectangle1"
-          />
-          <div class="index1-rectangle9"><span class="index1-text"></span></div>
-          <div class="index1-rectangle6">
-            <span class="index1-text01"></span>
-          </div>
-          <img
-            alt="IMAGE245fafc711322ba60c0d79ffd452c40e1115"
-            src="public/playground_assets/image245fafc711322ba60c0d79ffd452c40e1115-8hof-200w.png"
-            class="index1-i-m-a-g-e245fafc711322ba60c0d79ffd452c40e1"
-          />
-          <span class="index1-text02"><span>Log In</span></span>
-          <div class="index1-rectangle7">
-            <span class="index1-text04"></span>
-          </div>
-          <div class="index1-rectangle8">
-            <span class="index1-text05"></span>
-          </div>
-          <span class="index1-text06"><span>Name</span></span>
-          <span class="index1-text08"><span>_______________</span></span>
-          <span class="index1-text10"><span>_______________</span></span>
-          <span class="index1-text12"><span>_______________</span></span>
-          <span class="index1-text14"><span>ID</span></span>
-          <span class="index1-text16"><span>Password</span></span>
-          <span class="index1-text18"><span>SUBMIT</span></span>
-          <span class="index1-text20"><span>NEW USER?</span></span>
-          <span class="index1-text22"><span>SIGN IN</span></span>
+        <div class="index1-dummy-container">
+          <button class="index1-mac-book-pro143button">
+            <img
+              src="public/playground_assets/rectangle1112-og6-700h.png"
+              alt="Rectangle1112"
+              class="index1-rectangle1"
+            />
+            <div class="index1-rectangle9">
+              <span class="index1-text"></span>
+            </div>
+            <div class="index1-rectangle6">
+              <span class="index1-text01">
+                <span>
+                  <span>d</span>
+                  <br />
+                  <span></span>
+                </span>
+              </span>
+              <span class="index1-text06"></span>
+            </div>
+            <img
+              src="public/playground_assets/image245fafc711322ba60c0d79ffd452c40e1115-rli-200w.png"
+              alt="IMAGE245fafc711322ba60c0d79ffd452c40e1115"
+              class="index1-i-m-a-g-e245fafc711322ba60c0d79ffd452c40e1"
+            />
+            <span class="index1-text07"><span>Log In</span></span>
+            <div class="index1-rectangle7">
+              <span class="index1-text09">
+                <span>
+                  <span>d</span>
+                  <br />
+                  <span></span>
+                </span>
+              </span>
+              <span class="index1-text14"></span>
+            </div>
+            <div class="index1-rectangle8">
+              <span class="index1-text15">
+                <span>
+                  <span>d</span>
+                  <br />
+                  <span></span>
+                </span>
+              </span>
+              <span class="index1-text20"></span>
+            </div>
+            <span class="index1-text21"><span>Name</span></span>
+            <div class="index1-text23"><span><input type="text" id="id" placeholder="ID"></textarea></span></div>
+            <div class="index1-text25"><input type="text" id="name" placeholder="Name"></div>
+            <div class="index1-text27"><input type="password" id="password" placeholder="Password"></div>
+            <span class="index1-text29"><span>ID</span></span>
+            <span class="index1-text31"><span>Password</span></span>
+            <span class="index1-text33" style="cursor: pointer;"><span onclick="checkCredentials()">LOG IN</span></span>
+            <span class="index1-text35" style="cursor: pointer;"><span onclick="window.location.replace('j.html')">NEW USER?</span></span>
+            <span class="index1-text37" style="cursor: pointer;"><span onclick="window.location.replace('j.html')">SIGN UP</span></span>
+          </button>
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      function checkCredentials() {
+  var name = document.getElementById("name").value;
+  var id = document.getElementById("id").value;
+  var password = document.getElementById("password").value;
+  
+  if (name == "venkat" && id == "cit" && password == "freakinghot") {
+    window.location.replace("k.html");
+  }
+} 
+    </script>
   </body>
 </html>
